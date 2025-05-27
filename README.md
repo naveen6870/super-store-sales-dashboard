@@ -1,7 +1,7 @@
 # super-store-sales-dashboard
 
 📊 Power BI Report: Super Store Sales Dashboard
-📁 Summary:
+# 📁 Summary:
 This Power BI report provides an analytical overview of a Super Store's sales performance. The dashboard integrates key metrics and interactive visualizations to give business stakeholders an intuitive view of their performance across regions, time, segments, and product categories.
 
 🧮 Key Performance Indicators (KPIs)
