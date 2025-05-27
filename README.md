@@ -28,7 +28,8 @@ Identifies profitability trends across the year.
 
 High Profit in October & December 2020: Indicates efficient sales strategies or high-margin product sales during these months.
 
-🍩 Donut Charts
+## 🍩 Donut Charts
+
 These charts give a proportional view of the following sales breakdowns:
 
 Sales by Payment Mode
@@ -49,7 +50,8 @@ Categorizes sales into different business segments like Consumer, Corporate, and
 
 Useful for identifying your target audience and growth areas.
 
-📊 Bar Charts
+## 📊 Bar Charts
+
 These charts break down performance across different operational dimensions:
 
 Sales by Ship Mode
@@ -64,7 +66,8 @@ Sales by Sub-category
 
 Drills further down to specific items, helping identify top performers or underperformers.
 
-🗺️ Map Visualization
+## 🗺️ Map Visualization
+
 Profit & Sales by States
 
 A geographical map displays both profit and sales intensity across U.S. states.
