@@ -4,7 +4,7 @@
 ## 📁 Summary:
 This Power BI report provides an analytical overview of a Super Store's sales performance. The dashboard integrates key metrics and interactive visualizations to give business stakeholders an intuitive view of their performance across regions, time, segments, and product categories.
 
-##🧮 Key Performance Indicators (KPIs)
+## 🧮 Key Performance Indicators (KPIs)
 
 Total Orders: 22,000+
 
@@ -14,7 +14,8 @@ Total Profit: $175K
 
 These high-level KPIs are displayed at the top of the dashboard to offer a snapshot of the business's performance.
 
-📈 Area Charts
+## 📈 Area Charts
+
 Sales by Month
 
 Shows seasonal trends in sales.
